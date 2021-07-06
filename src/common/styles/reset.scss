@@ -1,0 +1,75 @@
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre,
+a,
+img,
+small,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+footer,
+header,
+menu,
+nav,
+section,
+audio,
+video,
+input {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,SimSun,sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  outline: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a,
+a:active,
+a:visited,
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
